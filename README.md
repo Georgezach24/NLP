@@ -10,3 +10,19 @@ This project explores how emotional language is used strategically in political 
 
 - Visualize emotional patterns across ideological divides and time.
 
+# References
+- Demszky et al. (2020). GoEmotions: A dataset of fine-grained emotions. arXiv:2005.00547
+
+- Card et al. (2015). The Media Frames Corpus. ACL 2015.
+
+- Lundberg & Lee (2017). A Unified Approach to Interpreting Model Predictions. NeurIPS.
+
+- Şeref et al. (2023). Rhetoric Mining: A New Text-Analytics Approach for Quantifying Persuasion.
+
+# Future Work
+- Extend emotion analysis to video/audio political content (debates, speeches)
+
+- Incorporate multimodal cues (facial expressions, prosody)
+
+- Deploy as an interactive dashboard or web app
+
