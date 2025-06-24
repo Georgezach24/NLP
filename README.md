@@ -26,3 +26,7 @@ This project explores how emotional language is used strategically in political 
 
 - Deploy as an interactive dashboard or web app
 
+  # Kaggle notebook link :
+ - https://www.kaggle.com/code/georgioszachos/nlp-project
+  
+
